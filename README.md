@@ -34,7 +34,7 @@ This is simple weather app that saves previous searches and displays the 5 day f
 - This weather daskboard app is mobile compatible.
 
  ## Screenshot of Project
-![](assets/images/06-server-side-apis-homework-demo.png)
+![](https://github.com/RetroColossus/Weather-Dashboard/blob/main/assets/images/weather.app.JPG)
 
 ## Project Link:
 (https://retrocolossus.github.io/Weather-Dashboard/)
